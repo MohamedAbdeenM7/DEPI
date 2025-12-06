@@ -1,4 +1,0 @@
-# DEPI_AIS2_G3_ML
-
-Hi there
-checking again
