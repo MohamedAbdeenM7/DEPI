@@ -9,6 +9,10 @@ Machine Learning.
 
 - `python-for-ml/`: Contains Python scripts and resources for Machine Learning.
 
+- ``script.py``   : Contains Python code.
+
+- ``git commands`` : Contains the most common git commands used.
+
 ## Getting Started
 
 To get started with this project, clone the repository and
