@@ -1,4 +1,4 @@
-# Amit Repository
+# DEPI Repository
 
 ## Project Overview
 
